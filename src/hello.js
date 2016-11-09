@@ -13,6 +13,7 @@
  * @returns {string} 'Hello, World!'
  */
 let sayHello = function() {
+  return 'Hello, World!';
 
   // TODO: Write your code here!
 
